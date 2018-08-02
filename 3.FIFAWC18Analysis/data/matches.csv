@@ -1,0 +1,65 @@
+IdMatch,HomeTeamName,AwayTeamName,Attendance,MatchDay,Date,Stage,HomeTeamTactics,AwayTeamTactics,HomeTeamScore,AwayTeamScore,HomeTeamPenaltyScore,AwayTeamPenaltyScore,IsHomeMatch,MatchStatus,ResultType,StadiumName,Temperature,Humidity,WindSpeed,WeatherType,BallPossessionHome,BallPossessionAway,Winner
+300331503,Russia,Saudi Arabia,78011,1,2018-06-14T15:00:00Z,First stage,4-2-3-1,4-5-1,5,0,0,0,,0,1,Luzhniki Stadium,17,43,6,Partly Cloudy,40.0,60.0,Russia
+300353632,Egypt,Uruguay,27015,2,2018-06-15T12:00:00Z,First stage,4-2-3-1,4-4-2,0,1,0,0,,0,1,Ekaterinburg Arena,14,42,29,Partly Cloudy,43.0,57.0,Uruguay
+300331526,Morocco,IR Iran,62548,2,2018-06-15T15:00:00Z,First stage,3-4-3,3-4-3,0,1,0,0,,0,1,Saint Petersburg Stadium,25,37,13,Partly Cloudy,64.0,36.0,IR Iran
+300331524,Portugal,Spain,43866,2,2018-06-15T18:00:00Z,First stage,4-2-3-1,4-2-3-1,3,3,0,0,,0,1,Fisht Stadium,24,74,10,Partly Cloudy Night,39.0,61.0,
+300331533,France,Australia,41279,3,2018-06-16T10:00:00Z,First stage,4-3-3,4-2-3-1,2,1,0,0,,0,1,Kazan Arena,19,32,19,Sunny,51.0,49.0,France
+300331515,Argentina,Iceland,44190,3,2018-06-16T13:00:00Z,First stage,4-2-3-1,4-5-1,1,1,0,0,,0,1,Spartak Stadium,22,33,11,Sunny,72.0,28.0,
+300331528,Peru,Denmark,40502,3,2018-06-16T16:00:00Z,First stage,4-2-3-1,4-3-3,0,1,0,0,,0,1,Mordovia Arena,18,48,12,Partly Cloudy,52.0,48.0,Denmark
+300331523,Croatia,Nigeria,31136,3,2018-06-16T19:00:00Z,First stage,4-2-3-1,4-2-3-1,2,0,0,0,,0,1,Kaliningrad Stadium,20,64,7,Partly Cloudy,54.0,46.0,Croatia
+300331529,Costa Rica,Serbia,41432,4,2018-06-17T12:00:00Z,First stage,5-4-1,4-2-3-1,0,1,0,0,,0,1,Samara Arena,22,32,18,Sunny,50.0,50.0,Serbia
+300331502,Germany,Mexico,78011,4,2018-06-17T15:00:00Z,First stage,4-2-3-1,4-2-3-1,0,1,0,0,,0,1,Luzhniki Stadium,23,42,11,Sunny,60.0,40.0,Mexico
+300331525,Brazil,Switzerland,43109,4,2018-06-17T18:00:00Z,First stage,4-2-3-1,4-2-3-1,1,1,0,0,,0,1,Rostov Arena,25,27,16,Partly Cloudy Night,52.0,48.0,
+300331499,Sweden,Korea Republic,42300,5,2018-06-18T12:00:00Z,First stage,4-4-2,4-3-3,1,0,0,0,,0,1,Nizhny Novgorod Stadium,25,36,9,Partly Cloudy,52.0,48.0,Sweden
+300331539,Belgium,Panama,43257,5,2018-06-18T15:00:00Z,First stage,3-4-2-1,4-5-1,3,0,0,0,,0,1,Fisht Stadium,24,71,12,Partly Cloudy,61.0,39.0,Belgium
+300331554,Tunisia,England,41064,5,2018-06-18T18:00:00Z,First stage,4-3-3,3-5-2,1,2,0,0,,0,1,Volgograd Arena,24,17,7,Clear Night,41.0,59.0,England
+300331550,Colombia,Japan,40842,6,2018-06-19T12:00:00Z,First stage,4-2-3-1,4-2-3-1,1,2,0,0,,0,1,Mordovia Arena,27,38,12,Sunny,41.0,59.0,Japan
+300331545,Poland,Senegal,44190,6,2018-06-19T15:00:00Z,First stage,4-2-3-1,4-4-2,1,2,0,0,,0,1,Spartak Stadium,27,40,19,Cloudy,57.0,43.0,Senegal
+300331495,Russia,Egypt,64468,6,2018-06-19T18:00:00Z,First stage,4-2-3-1,4-2-3-1,3,1,0,0,,0,1,Saint Petersburg Stadium,15,83,14,Cloudy,47.0,53.0,Russia
+300331511,Portugal,Morocco,78011,7,2018-06-20T12:00:00Z,First stage,4-4-2,4-2-3-1,1,0,0,0,,0,1,Luzhniki Stadium,20,33,24,Partly Cloudy,47.0,53.0,Portugal
+300331530,Uruguay,Saudi Arabia,42678,7,2018-06-20T15:00:00Z,First stage,4-4-2,4-5-1,1,0,0,0,,0,1,Rostov Arena,32,26,10,Sunny,47.0,53.0,Uruguay
+300331496,IR Iran,Spain,42718,7,2018-06-20T18:00:00Z,First stage,4-2-3-1,4-2-3-1,0,1,0,0,,0,1,Kazan Arena,18,48,26,Clear Night,30.0,70.0,Spain
+300331518,Denmark,Australia,40727,8,2018-06-21T12:00:00Z,First stage,4-3-3,4-2-3-1,1,1,0,0,,0,1,Samara Arena,24,32,25,Sunny,49.0,51.0,
+300331527,France,Peru,32789,8,2018-06-21T15:00:00Z,First stage,4-2-3-1,4-2-3-1,1,0,0,0,,0,1,Ekaterinburg Arena,12,79,21,Cloudy,44.0,56.0,France
+300331513,Argentina,Croatia,43319,8,2018-06-21T18:00:00Z,First stage,3-4-3,4-2-3-1,0,3,0,0,,0,1,Nizhny Novgorod Stadium,17,49,15,Clear Night,58.0,42.0,Croatia
+300331540,Brazil,Costa Rica,64468,9,2018-06-22T12:00:00Z,First stage,4-2-3-1,5-4-1,2,0,0,0,,0,1,Saint Petersburg Stadium,19,70,19,Cloudy,66.0,34.0,Brazil
+300331497,Nigeria,Iceland,40904,9,2018-06-22T15:00:00Z,First stage,3-5-2,4-4-2,2,0,0,0,,0,1,Volgograd Arena,32,19,2,Sunny,58.0,42.0,Nigeria
+300340183,Serbia,Switzerland,33167,9,2018-06-22T18:00:00Z,First stage,4-2-3-1,4-2-3-1,1,2,0,0,,0,1,Kaliningrad Stadium,15,55,11,Sunny,42.0,58.0,Switzerland
+300331547,Belgium,Tunisia,44190,10,2018-06-23T12:00:00Z,First stage,3-4-3,4-3-3,5,2,0,0,,0,1,Spartak Stadium,28,64,12,Partly Cloudy,52.0,48.0,Belgium
+300331549,Korea Republic,Mexico,43472,10,2018-06-23T15:00:00Z,First stage,4-4-2,4-3-3,1,2,0,0,,0,1,Rostov Arena,33,28,11,Partly Cloudy,41.0,59.0,Mexico
+300331501,Germany,Sweden,44287,10,2018-06-23T18:00:00Z,First stage,4-2-3-1,4-4-2,2,1,0,0,,0,1,Fisht Stadium,22,80,11,Partly Cloudy Night,71.0,29.0,Germany
+300331546,England,Panama,43319,11,2018-06-24T12:00:00Z,First stage,3-5-2,4-5-1,6,1,0,0,,0,1,Nizhny Novgorod Stadium,30,33,15,Partly Cloudy,58.0,42.0,England
+300331505,Japan,Senegal,32572,11,2018-06-24T15:00:00Z,First stage,4-2-3-1,4-3-3,2,2,0,0,,0,1,Ekaterinburg Arena,25,38,26,Sunny,54.0,46.0,
+300331508,Poland,Colombia,42873,11,2018-06-24T18:00:00Z,First stage,3-4-3,4-2-3-1,0,3,0,0,,0,1,Kazan Arena,26,58,8,Clear Night,45.0,55.0,Colombia
+300331516,Uruguay,Russia,41970,12,2018-06-25T14:00:00Z,First stage,3-5-2,4-2-3-1,3,0,0,0,,0,1,Samara Arena,32,34,6,Sunny,56.0,44.0,Uruguay
+300331509,Saudi Arabia,Egypt,36823,12,2018-06-25T14:00:00Z,First stage,4-5-1,4-2-3-1,2,1,0,0,,0,1,Volgograd Arena,35,24,10,Partly Cloudy,61.0,39.0,Saudi Arabia
+300340184,Spain,Morocco,33973,12,2018-06-25T18:00:00Z,First stage,4-2-3-1,4-2-3-1,2,2,0,0,,0,1,Kaliningrad Stadium,15,70,13,Partly Cloudy Night,68.0,32.0,
+300331500,IR Iran,Portugal,41685,12,2018-06-25T18:00:00Z,First stage,4-5-1,4-4-2,1,1,0,0,,0,1,Mordovia Arena,23,70,9,Partly Cloudy Night,32.0,68.0,
+300331506,Australia,Peru,44073,13,2018-06-26T14:00:00Z,First stage,4-2-3-1,4-2-3-1,0,2,0,0,,0,1,Fisht Stadium,30,70,10,Partly Cloudy,53.0,47.0,Peru
+300331512,Denmark,France,78011,13,2018-06-26T14:00:00Z,First stage,4-3-3,4-2-3-1,0,0,0,0,,0,1,Luzhniki Stadium,24,34,11,Partly Cloudy,38.0,62.0,
+300331519,Nigeria,Argentina,64468,13,2018-06-26T18:00:00Z,First stage,3-5-2,4-4-2,1,2,0,0,,0,1,Saint Petersburg Stadium,22,45,18,Sunny,34.0,66.0,Argentina
+300331510,Iceland,Croatia,43472,13,2018-06-26T18:00:00Z,First stage,4-2-3-1,4-2-3-1,1,2,0,0,,0,1,Rostov Arena,30,38,21,Clear Night,41.0,59.0,Croatia
+300331532,Korea Republic,Germany,41835,14,2018-06-27T14:00:00Z,First stage,4-4-2,4-2-3-1,2,0,0,0,,0,1,Kazan Arena,28,40,18,Sunny,30.0,70.0,Korea Republic
+300331548,Mexico,Sweden,33061,14,2018-06-27T14:00:00Z,First stage,4-2-3-1,4-4-2,0,3,0,0,,0,1,Ekaterinburg Arena,27,42,18,Sunny,65.0,35.0,Sweden
+300331521,Serbia,Brazil,44190,14,2018-06-27T18:00:00Z,First stage,4-2-3-1,4-2-3-1,0,2,0,0,,0,1,Spartak Stadium,24,42,12,Partly Cloudy,44.0,56.0,Brazil
+300331534,Switzerland,Costa Rica,43319,14,2018-06-27T18:00:00Z,First stage,4-2-3-1,5-4-1,2,2,0,0,,0,1,Nizhny Novgorod Stadium,20,43,13,Clear Night,60.0,40.0,
+300331507,Japan,Poland,42189,15,2018-06-28T14:00:00Z,First stage,4-2-3-1,3-4-3,0,1,0,0,,0,1,Volgograd Arena,36,24,13,Sunny,54.0,46.0,Poland
+300331553,Senegal,Colombia,41970,15,2018-06-28T14:00:00Z,First stage,4-4-2,4-2-3-1,0,1,0,0,,0,1,Samara Arena,27,34,21,Sunny,43.0,57.0,Colombia
+300331520,Panama,Tunisia,37168,15,2018-06-28T18:00:00Z,First stage,4-5-1,4-3-3,1,2,0,0,,0,1,Mordovia Arena,20,60,7,Clear Night,36.0,64.0,Tunisia
+300340182,England,Belgium,33973,15,2018-06-28T18:00:00Z,First stage,3-5-2,3-4-3,0,1,0,0,,0,1,Kaliningrad Stadium,21,61,11,Sunny,48.0,52.0,Belgium
+300331537,France,Argentina,42873,16,2018-06-30T14:00:00Z,Round of 16,4-2-3-1,4-3-3,4,3,0,0,,0,1,Kazan Arena,28,33,12,Sunny,41.0,59.0,France
+300331544,Uruguay,Portugal,44287,16,2018-06-30T18:00:00Z,Round of 16,4-4-2,4-4-2,2,1,0,0,,0,1,Fisht Stadium,27,74,11,Clear Night,39.0,61.0,Uruguay
+300331517,Spain,Russia,78011,17,2018-07-01T14:00:00Z,Round of 16,4-2-3-1,5-3-2,1,1,3,4,,0,2,Luzhniki Stadium,24,63,13,Partly Cloudy,75.0,25.0,Russia
+300331498,Croatia,Denmark,40851,17,2018-07-01T18:00:00Z,Round of 16,4-2-3-1,4-3-3,1,1,3,2,,0,2,Nizhny Novgorod Stadium,25,48,15,Partly Cloudy Night,54.0,46.0,Croatia
+300331535,Brazil,Mexico,41970,18,2018-07-02T14:00:00Z,Round of 16,4-2-3-1,4-3-3,2,0,0,0,,0,1,Samara Arena,33,28,14,Sunny,47.0,53.0,Brazil
+300331551,Belgium,Japan,41466,18,2018-07-02T18:00:00Z,Round of 16,3-4-3,4-2-3-1,3,2,0,0,,0,1,Rostov Arena,25,36,9,Clear Night,56.0,44.0,Belgium
+300331514,Sweden,Switzerland,64042,19,2018-07-03T14:00:00Z,Round of 16,4-4-2,4-2-3-1,1,0,0,0,,0,1,Saint Petersburg Stadium,18,60,10,Partly Cloudy,37.0,63.0,Sweden
+300331542,Colombia,England,44190,19,2018-07-03T18:00:00Z,Round of 16,4-3-2-1,3-5-2,1,1,3,4,,0,2,Spartak Stadium,18,61,7,Cloudy,49.0,51.0,England
+300331543,Uruguay,France,43319,20,2018-07-06T14:00:00Z,Quarter-finals,4-4-2,4-2-3-1,0,2,0,0,,0,1,Nizhny Novgorod Stadium,22,53,13,Partly Cloudy,42.0,58.0,France
+300331538,Brazil,Belgium,42873,20,2018-07-06T18:00:00Z,Quarter-finals,4-2-3-1,3-4-3,1,2,0,0,,0,1,Kazan Arena,20,60,9,Partly Cloudy Night,57.0,43.0,Belgium
+300331541,Sweden,England,39991,21,2018-07-07T14:00:00Z,Quarter-finals,4-4-2,3-5-2,0,2,0,0,,0,1,Samara Arena,26,39,7,Partly Cloudy,43.0,57.0,England
+300331504,Russia,Croatia,44287,21,2018-07-07T18:00:00Z,Quarter-finals,4-2-3-1,4-2-3-1,2,2,3,4,,0,2,Fisht Stadium,24,70,12,Clear Night,38.0,62.0,Croatia
+300331531,France,Belgium,64286,22,2018-07-10T18:00:00Z,Semi-finals,4-2-3-1,3-5-2,1,0,0,0,,0,1,Saint Petersburg Stadium,18,75,11,Cloudy,40.0,60.0,France
+300331522,Croatia,England,78011,23,2018-07-11T18:00:00Z,Semi-finals,4-2-3-1,3-5-2,2,1,0,0,,0,3,Luzhniki Stadium,21,64,6,Cloudy,54.0,46.0,Croatia
+300331536,Belgium,England,64406,24,2018-07-14T14:00:00Z,Play-off for third place,3-4-3,3-5-2,2,0,0,0,,0,1,Saint Petersburg Stadium,26,45,10,Partly Cloudy,43.0,57.0,Belgium
+300331552,France,Croatia,78011,25,2018-07-15T15:00:00Z,Final,4-2-3-1,4-2-3-1,4,2,0,0,,0,1,Luzhniki Stadium,27,51,3,Partly Cloudy,39.0,61.0,France

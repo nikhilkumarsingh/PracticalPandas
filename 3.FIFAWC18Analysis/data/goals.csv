@@ -1,0 +1,196 @@
+PlayerName,Minute,IdMatch,Type,TeamName,OppositionTeamName,Position,IsCaptain,GoalKeeperName,PlayerShirtNumber
+Iury GAZINSKY,12',300331503,2,Russia,Saudi Arabia,2,False,ABDULLAH ALMUAIOUF,8
+Denis CHERYSHEV,43',300331503,2,Russia,Saudi Arabia,2,False,ABDULLAH ALMUAIOUF,6
+Artem DZYUBA,71',300331503,2,Russia,Saudi Arabia,3,False,ABDULLAH ALMUAIOUF,22
+Denis CHERYSHEV,90'+1',300331503,2,Russia,Saudi Arabia,2,False,ABDULLAH ALMUAIOUF,6
+Aleksandr GOLOVIN,90'+4',300331503,2,Russia,Saudi Arabia,2,False,ABDULLAH ALMUAIOUF,17
+Jose GIMENEZ,89',300353632,2,Uruguay,Egypt,1,False,MOHAMED ELSHENAWY,2
+Aziz BOUHADDOUZ,90'+5',300331526,3,IR Iran,Morocco,3,False,,20
+CRISTIANO RONALDO,4',300331524,1,Portugal,Spain,3,True,David DE GEA,7
+CRISTIANO RONALDO,44',300331524,2,Portugal,Spain,3,True,David DE GEA,7
+CRISTIANO RONALDO,88',300331524,2,Portugal,Spain,3,True,David DE GEA,7
+Diego COSTA,24',300331524,2,Spain,Portugal,3,False,RUI PATRICIO,19
+Diego COSTA,55',300331524,2,Spain,Portugal,3,False,RUI PATRICIO,19
+NACHO,58',300331524,2,Spain,Portugal,1,False,RUI PATRICIO,4
+Antoine GRIEZMANN,58',300331533,1,France,Australia,3,False,Mathew RYAN,7
+Aziz BEHICH,81',300331533,3,France,Australia,1,False,,16
+Mile JEDINAK,62',300331533,1,Australia,France,2,True,Hugo LLORIS,15
+Sergio AGUERO,19',300331515,2,Argentina,Iceland,3,False,Hannes HALLDORSSON,19
+Alfred FINNBOGASON,23',300331515,2,Iceland,Argentina,3,False,Wilfredo CABALLERO,11
+Yussuf Yurary POULSEN,59',300331528,2,Denmark,Peru,3,False,Pedro GALLESE,20
+Oghenekaro ETEBO,32',300331523,3,Croatia,Nigeria,2,False,,8
+Luka MODRIC,71',300331523,1,Croatia,Nigeria,2,True,Francis UZOHO,10
+Aleksandar KOLAROV,56',300331529,2,Serbia,Costa Rica,1,True,Keylor NAVAS,11
+Hirving  LOZANO,35',300331502,2,Mexico,Germany,3,False,Manuel NEUER,22
+PHILIPPE COUTINHO,20',300331525,2,Brazil,Switzerland,2,False,Yann SOMMER,11
+Steven ZUBER,50',300331525,2,Switzerland,Brazil,2,False,ALISSON,14
+Andreas GRANQVIST,65',300331499,1,Sweden,Korea Republic,1,True,JO Hyeonwoo,4
+Dries MERTENS,47',300331539,2,Belgium,Panama,3,False,Jaime PENEDO,14
+Romelu LUKAKU,69',300331539,2,Belgium,Panama,3,False,Jaime PENEDO,9
+Romelu LUKAKU,75',300331539,2,Belgium,Panama,3,False,Jaime PENEDO,9
+Ferjani SASSI,35',300331554,1,Tunisia,England,2,False,Jordan PICKFORD,13
+Harry KANE,11',300331554,2,England,Tunisia,3,True,Mouez HASSEN,9
+Harry KANE,90'+1',300331554,2,England,Tunisia,3,True,Farouk BEN MUSTAPHA,9
+Juan QUINTERO,39',300331550,2,Colombia,Japan,2,False,Eiji KAWASHIMA,20
+Shinji KAGAWA,6',300331550,1,Japan,Colombia,2,False,David OSPINA,10
+Yuya OSAKO,73',300331550,2,Japan,Colombia,3,False,David OSPINA,15
+Grzegorz KRYCHOWIAK,86',300331545,2,Poland,Senegal,2,False,Khadim NDIAYE,10
+Thiago CIONEK,37',300331545,3,Senegal,Poland,1,False,,4
+Mbaye NIANG,60',300331545,2,Senegal,Poland,3,False,Wojciech SZCZESNY,19
+AHMED FATHI,47',300331495,3,Russia,Egypt,1,True,,7
+Denis CHERYSHEV,59',300331495,2,Russia,Egypt,2,False,MOHAMED ELSHENAWY,6
+Artem DZYUBA,62',300331495,2,Russia,Egypt,3,False,MOHAMED ELSHENAWY,22
+MOHAMED SALAH,73',300331495,1,Egypt,Russia,3,False,Igor AKINFEEV,10
+CRISTIANO RONALDO,4',300331511,2,Portugal,Morocco,3,True,Monir EL KAJOUI,7
+Luis SUAREZ,23',300331530,2,Uruguay,Saudi Arabia,3,False,MOHAMMED ALOWAIS,9
+Diego COSTA,54',300331496,2,Spain,IR Iran,3,False,Ali BEIRANVAND,19
+Christian ERIKSEN,7',300331518,2,Denmark,Australia,2,False,Mathew RYAN,10
+Mile JEDINAK,38',300331518,1,Australia,Denmark,2,True,Kasper  SCHMEICHEL,15
+Kylian MBAPPE,34',300331527,2,France,Peru,3,False,Pedro GALLESE,10
+Ante REBIC,53',300331513,2,Croatia,Argentina,3,False,Wilfredo CABALLERO,18
+Luka MODRIC,80',300331513,2,Croatia,Argentina,2,True,Wilfredo CABALLERO,10
+Ivan RAKITIC,90'+1',300331513,2,Croatia,Argentina,2,False,Wilfredo CABALLERO,7
+PHILIPPE COUTINHO,90'+1',300331540,2,Brazil,Costa Rica,2,False,Keylor NAVAS,11
+NEYMAR,90'+7',300331540,2,Brazil,Costa Rica,3,False,Keylor NAVAS,10
+Ahmed MUSA,49',300331497,2,Nigeria,Iceland,3,False,Hannes HALLDORSSON,7
+Ahmed MUSA,75',300331497,2,Nigeria,Iceland,3,False,Hannes HALLDORSSON,7
+Aleksandar MITROVIC,5',300340183,2,Serbia,Switzerland,3,False,Yann SOMMER,9
+Granit XHAKA,52',300340183,2,Switzerland,Serbia,2,False,Vladimir STOJKOVIC,10
+Xherdan SHAQIRI,90',300340183,2,Switzerland,Serbia,2,False,Vladimir STOJKOVIC,23
+Eden HAZARD,6',300331547,1,Belgium,Tunisia,3,True,Farouk BEN MUSTAPHA,10
+Romelu LUKAKU,16',300331547,2,Belgium,Tunisia,3,False,Farouk BEN MUSTAPHA,9
+Romelu LUKAKU,45'+3',300331547,2,Belgium,Tunisia,3,False,Farouk BEN MUSTAPHA,9
+Eden HAZARD,51',300331547,2,Belgium,Tunisia,3,True,Farouk BEN MUSTAPHA,10
+Michy BATSHUAYI,90',300331547,2,Belgium,Tunisia,3,False,Farouk BEN MUSTAPHA,21
+Dylan BRONN,18',300331547,2,Tunisia,Belgium,1,False,Thibaut COURTOIS,11
+Wahbi KHAZRI,90'+3',300331547,2,Tunisia,Belgium,3,True,Thibaut COURTOIS,10
+SON Heungmin,90'+3',300331549,2,Korea Republic,Mexico,3,False,Guillermo OCHOA,7
+Carlos VELA,26',300331549,1,Mexico,Korea Republic,3,False,JO Hyeonwoo,11
+Javier HERNANDEZ,66',300331549,2,Mexico,Korea Republic,3,False,JO Hyeonwoo,14
+Marco REUS,48',300331501,2,Germany,Sweden,3,False,Robin OLSEN,11
+Toni KROOS,90'+5',300331501,2,Germany,Sweden,2,False,Robin OLSEN,8
+Ola TOIVONEN,32',300331501,2,Sweden,Germany,3,False,Manuel NEUER,20
+John STONES,8',300331546,2,England,Panama,1,False,Jaime PENEDO,5
+Harry KANE,22',300331546,1,England,Panama,3,True,Jaime PENEDO,9
+Jesse  LINGARD,36',300331546,2,England,Panama,2,False,Jaime PENEDO,7
+John STONES,40',300331546,2,England,Panama,1,False,Jaime PENEDO,5
+Harry KANE,45'+1',300331546,1,England,Panama,3,True,Jaime PENEDO,9
+Harry KANE,62',300331546,2,England,Panama,3,True,Jaime PENEDO,9
+Felipe BALOY,78',300331546,2,Panama,England,1,False,Jordan PICKFORD,23
+Takashi INUI,34',300331505,2,Japan,Senegal,2,False,Khadim NDIAYE,14
+Keisuke HONDA,78',300331505,2,Japan,Senegal,2,False,Khadim NDIAYE,4
+Sadio MANE,11',300331505,2,Senegal,Japan,3,True,Eiji KAWASHIMA,10
+Moussa WAGUE,71',300331505,2,Senegal,Japan,1,False,Eiji KAWASHIMA,22
+Yerry MINA,40',300331508,2,Colombia,Poland,1,False,Wojciech SZCZESNY,13
+Radamel FALCAO,70',300331508,2,Colombia,Poland,3,True,Wojciech SZCZESNY,9
+Juan CUADRADO,75',300331508,2,Colombia,Poland,2,False,Wojciech SZCZESNY,11
+Luis SUAREZ,10',300331516,2,Uruguay,Russia,3,False,Igor AKINFEEV,9
+Denis CHERYSHEV,23',300331516,3,Uruguay,Russia,2,False,,6
+Edinson CAVANI,90',300331516,2,Uruguay,Russia,3,False,Igor AKINFEEV,21
+SALMAN ALFARAJ,45'+6',300331509,1,Saudi Arabia,Egypt,2,False,ESSAM ELHADARY,7
+SALEM ALDAWSARI,90'+5',300331509,2,Saudi Arabia,Egypt,2,False,ESSAM ELHADARY,18
+MOHAMED SALAH,22',300331509,2,Egypt,Saudi Arabia,3,False,YASSER ALMOSAILEM,10
+ISCO,19',300340184,2,Spain,Morocco,2,False,Monir EL KAJOUI,22
+Iago ASPAS,90'+1',300340184,2,Spain,Morocco,3,False,Monir EL KAJOUI,17
+Khalid BOUTAIB,14',300340184,2,Morocco,Spain,3,False,David DE GEA,13
+Youssef EN NESYRI,81',300340184,2,Morocco,Spain,3,False,David DE GEA,19
+Karim ANSARIFARD,90'+3',300331500,1,IR Iran,Portugal,3,False,RUI PATRICIO,10
+RICARDO QUARESMA,45',300331500,2,Portugal,IR Iran,3,False,Ali BEIRANVAND,20
+Andre CARRILLO,18',300331506,2,Peru,Australia,3,False,Mathew RYAN,18
+Paolo GUERRERO,50',300331506,2,Peru,Australia,3,True,Mathew RYAN,9
+Victor MOSES,51',300331519,1,Nigeria,Argentina,3,False,Franco ARMANI,11
+Lionel MESSI,14',300331519,2,Argentina,Nigeria,3,True,Francis UZOHO,10
+Marcos ROJO,86',300331519,2,Argentina,Nigeria,1,False,Francis UZOHO,16
+Gylfi SIGURDSSON,76',300331510,1,Iceland,Croatia,2,False,Lovre KALINIC,10
+Milan BADELJ,53',300331510,2,Croatia,Iceland,2,False,Hannes HALLDORSSON,19
+Ivan PERISIC,90',300331510,2,Croatia,Iceland,3,False,Hannes HALLDORSSON,4
+KIM Younggwon,90'+3',300331532,2,Korea Republic,Germany,1,False,Manuel NEUER,19
+SON Heungmin,90'+6',300331532,2,Korea Republic,Germany,3,True,Manuel NEUER,7
+Ludwig AUGUSTINSSON,50',300331548,2,Sweden,Mexico,1,False,Guillermo OCHOA,6
+Andreas GRANQVIST,62',300331548,1,Sweden,Mexico,1,True,Guillermo OCHOA,4
+Edson ALVAREZ,74',300331548,3,Sweden,Mexico,1,False,,21
+PAULINHO,36',300331521,2,Brazil,Serbia,2,False,Vladimir STOJKOVIC,15
+THIAGO SILVA,68',300331521,2,Brazil,Serbia,1,False,Vladimir STOJKOVIC,2
+Blerim DZEMAILI,31',300331534,2,Switzerland,Costa Rica,2,False,Keylor NAVAS,15
+Josip DRMIC,88',300331534,2,Switzerland,Costa Rica,3,False,Keylor NAVAS,19
+Kendall WASTON,56',300331534,2,Costa Rica,Switzerland,1,False,Yann SOMMER,19
+Yann SOMMER,90'+3',300331534,3,Costa Rica,Switzerland,0,False,,1
+Jan BEDNAREK,59',300331507,2,Poland,Japan,1,False,Eiji KAWASHIMA,5
+Yerry MINA,74',300331553,2,Colombia,Senegal,1,False,Khadim NDIAYE,13
+Yassine MERIAH,33',300331520,3,Panama,Tunisia,1,False,,4
+Fakhreddine BEN YOUSSEF,51',300331520,2,Tunisia,Panama,3,False,Jaime PENEDO,8
+Wahbi KHAZRI,66',300331520,2,Tunisia,Panama,3,False,Jaime PENEDO,10
+Adnan JANUZAJ,51',300340182,2,Belgium,England,3,False,Jordan PICKFORD,18
+Antoine GRIEZMANN,13',300331537,1,France,Argentina,3,False,Franco ARMANI,7
+Benjamin PAVARD,57',300331537,2,France,Argentina,1,False,Franco ARMANI,2
+Kylian MBAPPE,64',300331537,2,France,Argentina,3,False,Franco ARMANI,10
+Kylian MBAPPE,68',300331537,2,France,Argentina,3,False,Franco ARMANI,10
+Angel DI MARIA,41',300331537,2,Argentina,France,2,False,Hugo LLORIS,11
+Gabriel MERCADO,48',300331537,2,Argentina,France,1,False,Hugo LLORIS,2
+Sergio AGUERO,90'+3',300331537,2,Argentina,France,3,False,Hugo LLORIS,19
+Edinson CAVANI,7',300331544,2,Uruguay,Portugal,3,False,RUI PATRICIO,21
+Edinson CAVANI,62',300331544,2,Uruguay,Portugal,3,False,RUI PATRICIO,21
+PEPE,55',300331544,2,Portugal,Uruguay,1,False,Fernando MUSLERA,3
+Sergey IGNASHEVICH,12',300331517,3,Spain,Russia,1,False,,4
+Andres INIESTA,120'+1',300331517,1,Spain,Russia,2,False,Igor AKINFEEV,6
+Gerard PIQUE,120'+2',300331517,1,Spain,Russia,1,False,Igor AKINFEEV,3
+Sergio RAMOS,120'+5',300331517,1,Spain,Russia,1,True,Igor AKINFEEV,15
+Artem DZYUBA,41',300331517,1,Russia,Spain,3,False,David DE GEA,22
+Fedor SMOLOV,120'+1',300331517,1,Russia,Spain,3,False,David DE GEA,10
+Sergey IGNASHEVICH,120'+3',300331517,1,Russia,Spain,1,False,David DE GEA,4
+Aleksandr GOLOVIN,120'+4',300331517,1,Russia,Spain,2,False,David DE GEA,17
+Denis CHERYSHEV,120'+6',300331517,1,Russia,Spain,2,False,David DE GEA,6
+Mario MANDZUKIC,4',300331498,2,Croatia,Denmark,3,False,Kasper  SCHMEICHEL,17
+Andrej KRAMARIC,120'+4',300331498,1,Croatia,Denmark,3,False,Kasper  SCHMEICHEL,9
+Luka MODRIC,120'+5',300331498,1,Croatia,Denmark,2,True,Kasper  SCHMEICHEL,10
+Ivan RAKITIC,120'+9',300331498,1,Croatia,Denmark,2,False,Kasper  SCHMEICHEL,7
+Mathias  JORGENSEN,1',300331498,2,Denmark,Croatia,1,False,Danijel SUBASIC,13
+Simon KJAER,120'+3',300331498,1,Denmark,Croatia,1,True,Danijel SUBASIC,4
+Michael KROHN-DEHLI,120'+5',300331498,1,Denmark,Croatia,2,False,Danijel SUBASIC,2
+NEYMAR,51',300331535,2,Brazil,Mexico,3,False,Guillermo OCHOA,10
+ROBERTO FIRMINO,88',300331535,2,Brazil,Mexico,3,False,Guillermo OCHOA,20
+Jan VERTONGHEN,69',300331551,2,Belgium,Japan,1,False,Eiji KAWASHIMA,5
+Marouane FELLAINI,74',300331551,2,Belgium,Japan,2,False,Eiji KAWASHIMA,8
+Nacer CHADLI,90'+4',300331551,2,Belgium,Japan,2,False,Eiji KAWASHIMA,22
+Genki HARAGUCHI,48',300331551,2,Japan,Belgium,2,False,Thibaut COURTOIS,8
+Takashi INUI,52',300331551,2,Japan,Belgium,2,False,Thibaut COURTOIS,14
+Emil FORSBERG,66',300331514,2,Sweden,Switzerland,2,False,Yann SOMMER,10
+Yerry MINA,90'+3',300331542,2,Colombia,England,1,False,Jordan PICKFORD,13
+Radamel FALCAO,120'+1',300331542,1,Colombia,England,3,True,Jordan PICKFORD,9
+Juan CUADRADO,120'+3',300331542,1,Colombia,England,2,False,Jordan PICKFORD,11
+Luis MURIEL,120'+4',300331542,1,Colombia,England,3,False,Jordan PICKFORD,14
+Harry KANE,57',300331542,1,England,Colombia,3,True,David OSPINA,9
+Harry KANE,120'+2',300331542,1,England,Colombia,3,True,David OSPINA,9
+Marcus RASHFORD,120'+4',300331542,1,England,Colombia,3,False,David OSPINA,19
+Kieran TRIPPIER,120'+7',300331542,1,England,Colombia,1,False,David OSPINA,12
+Eric  DIER,120'+8',300331542,1,England,Colombia,2,False,David OSPINA,4
+Raphael VARANE,40',300331543,2,France,Uruguay,1,False,Fernando MUSLERA,4
+Antoine GRIEZMANN,61',300331543,2,France,Uruguay,3,False,Fernando MUSLERA,7
+RENATO AUGUSTO,76',300331538,2,Brazil,Belgium,2,False,Thibaut COURTOIS,8
+FERNANDINHO,13',300331538,3,Belgium,Brazil,2,False,,17
+Kevin DE BRUYNE,31',300331538,2,Belgium,Brazil,2,False,ALISSON,7
+Harry MAGUIRE,30',300331541,2,England,Sweden,1,False,Robin OLSEN,6
+Dele ALLI,59',300331541,2,England,Sweden,2,False,Robin OLSEN,20
+Denis CHERYSHEV,31',300331504,2,Russia,Croatia,2,False,Danijel SUBASIC,6
+MARIO FERNANDES,115',300331504,2,Russia,Croatia,1,False,Danijel SUBASIC,2
+Alan DZAGOEV,120'+4',300331504,1,Russia,Croatia,2,False,Danijel SUBASIC,9
+Sergey IGNASHEVICH,120'+7',300331504,1,Russia,Croatia,1,False,Danijel SUBASIC,4
+Daler KUZIAEV,120'+8',300331504,1,Russia,Croatia,2,False,Danijel SUBASIC,7
+Andrej KRAMARIC,39',300331504,2,Croatia,Russia,3,False,Igor AKINFEEV,9
+Domagoj VIDA,101',300331504,2,Croatia,Russia,1,False,Igor AKINFEEV,21
+Marcelo BROZOVIC,120'+3',300331504,1,Croatia,Russia,2,False,Igor AKINFEEV,11
+Luka MODRIC,120'+6',300331504,1,Croatia,Russia,2,True,Igor AKINFEEV,10
+Domagoj VIDA,120'+8',300331504,1,Croatia,Russia,1,False,Igor AKINFEEV,21
+Ivan RAKITIC,120'+9',300331504,1,Croatia,Russia,2,False,Igor AKINFEEV,7
+Samuel UMTITI,51',300331531,2,France,Belgium,1,False,Thibaut COURTOIS,5
+Ivan PERISIC,68',300331522,2,Croatia,England,3,False,Jordan PICKFORD,4
+Mario MANDZUKIC,109',300331522,2,Croatia,England,3,False,Jordan PICKFORD,17
+Kieran TRIPPIER,5',300331522,2,England,Croatia,1,False,Danijel SUBASIC,12
+Thomas MEUNIER,4',300331536,2,Belgium,England,1,False,Jordan PICKFORD,15
+Eden HAZARD,82',300331536,2,Belgium,England,3,True,Jordan PICKFORD,10
+Mario MANDZUKIC,18',300331552,3,France,Croatia,3,False,,17
+Antoine GRIEZMANN,38',300331552,1,France,Croatia,3,False,Danijel SUBASIC,7
+Paul POGBA,59',300331552,2,France,Croatia,2,False,Danijel SUBASIC,6
+Kylian MBAPPE,65',300331552,2,France,Croatia,3,False,Danijel SUBASIC,10
+Ivan PERISIC,28',300331552,2,Croatia,France,3,False,Hugo LLORIS,4
+Mario MANDZUKIC,69',300331552,2,Croatia,France,3,False,Hugo LLORIS,17
